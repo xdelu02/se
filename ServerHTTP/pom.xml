@@ -53,7 +53,7 @@
   <configuration>
     <archive>
       <manifest>
-            <mainClass>Server.JavaHTTPServer</mainClass>
+            <mainClass>DeLuca.serverHTTP.ServerHttp</mainClass>
       </manifest>
     </archive>
     <descriptorRefs>
